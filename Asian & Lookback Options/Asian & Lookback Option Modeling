@@ -1,0 +1,12 @@
+# Asian & Lookback Options
+
+This Jupyter Notebook explores the implementation of Monte Carlo simulations for pricing Asian and Lookback options using the Euler-Maruyama method. The notebook provides a step-by-step guide to modeling the underlying asset price dynamics and calculating the option payoffs under different averaging techniques.
+
+**Key Topics:**
+- Monte Carlo Simulation
+- Euler-Maruyama Method
+- Asian Options (Fixed and Floating Strike)
+- Lookback Options (Fixed and Floating Strike)
+- Geometric & Arithmetic Averaging
+
+**Note:** This work is part of my Certification in Quantitative Finance (CQF). The code provided is intended for educational purposes only and should not be used for future CQF exams or assessments.
