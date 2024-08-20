@@ -1,0 +1,12 @@
+# Deep Learning for Asset Price Prediction
+
+This repository contains a detailed report and associated code for implementing a Long Short-Term Memory (LSTM) network aimed at predicting upward price movements in assets. The project is part of my Certification in Quantitative Finance (CQF) and includes comprehensive steps from data collection to model evaluation.
+
+**Key Features:**
+- **Data Collection & Preprocessing:** Utilizes Yahoo Finance and Bloomberg APIs to gather and preprocess data.
+- **Technical Indicators & Financial Ratios:** Implements various technical indicators and financial ratios to enrich the feature set.
+- **Dimensional Reduction:** Applies techniques like Self-Organizing Maps (SOM), Uniform Manifold Approximation and Projection (UMAP), and K-Means Clustering to reduce dimensionality.
+- **LSTM Model Development:** Constructs and optimizes LSTM models using advanced hyperparameter tuning methods.
+- **Performance Evaluation & Backtesting:** Evaluates model performance using TensorBoard and backtests to ensure robust predictions.
+
+**Note:** The code and materials in this repository are intended solely for educational purposes and personal reference. Use of this code for future CQF exams or assessments is strictly prohibited.
