@@ -1,0 +1,9 @@
+# Folder Structure for Certification in Quantitative Finance (CQF) Work
+
+This repository is organized to systematically present the work and projects completed as part of my Certification in Quantitative Finance (CQF). Each folder contains specific projects or topics covered during the certification process.
+
+- **notebooks/**: Jupyter Notebooks with detailed analysis and code implementations.
+- **data/**: Datasets used in the projects, including both raw and processed data.
+- **scripts/**: Python scripts and utilities created to support the projects.
+
+**Note:** The use of this code and resources for future CQF exams or assessments is strictly prohibited. The materials provided are intended solely for educational purposes and personal reference.
